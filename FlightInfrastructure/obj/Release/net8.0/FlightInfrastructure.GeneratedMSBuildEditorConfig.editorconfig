@@ -1,0 +1,215 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FlightInfrastructure
+build_property.RootNamespace = FlightInfrastructure
+build_property.ProjectDir = C:\Users\45ksu\Desktop\ІСТП\ISadnTPLabDemo\src\FlightMVC\FlightInfrastructure\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\45ksu\Desktop\ІСТП\ISadnTPLabDemo\src\FlightMVC\FlightInfrastructure
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Airports/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Airports/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Airports/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Airports/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Airports/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/CategoriesFlights/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc0ZsaWdodHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/CategoriesFlights/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc0ZsaWdodHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/CategoriesFlights/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc0ZsaWdodHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/CategoriesFlights/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc0ZsaWdodHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/CategoriesFlights/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc0ZsaWdodHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Cities/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Cities/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Cities/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Cities/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Cities/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Countries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Countries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Countries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Countries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Countries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Flights/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Flights/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Flights/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Flights/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Flights/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Tickets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Tickets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Tickets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Tickets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Tickets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-o2irdpnb3s
