@@ -26,12 +26,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\45ksu\Desktop\ІСТП\ISadnTPLabDemo\src\FlightMVC\FlightInfrastructure
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Airports/ArrivalAirport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcQXJyaXZhbEFpcnBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Airports/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Airports/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Airports/DepartureAirport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcRGVwYXJ0dXJlQWlycG9ydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/45ksu/Desktop/ІСТП/ISadnTPLabDemo/src/FlightMVC/FlightInfrastructure/Views/Airports/Details.cshtml]

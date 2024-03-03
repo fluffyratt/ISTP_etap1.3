@@ -1,12 +1,12 @@
 ﻿@model FlightDomain.Model.Airport
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Створення";
 }
 
 <h1>Створити</h1>
 
-<h4>Airport</h4>
+<h4>Аеропорт</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -18,8 +18,8 @@
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="CityId" class="control-label"></label>
-                <select asp-for="CityId" class="form-control"asp-items="@(ViewData["Cities"] as SelectList)"></select>
+                <label asp-for="City" class="control-label"></label>
+                <select asp-for="City" class="form-control"asp-items="@(ViewData["Cities"] as SelectList)"></select>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
@@ -29,7 +29,7 @@
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Назад до аеропортів</a>
 </div>
 
 @section Scripts {

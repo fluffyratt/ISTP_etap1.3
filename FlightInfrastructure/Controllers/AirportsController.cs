@@ -26,6 +26,21 @@ namespace FlightInfrastructure.Controllers
             return View(await dbflightsContext.ToListAsync());
         }
 
+        public async Task<IActionResult> ArrivalAirport(int? id)
+        {
+            var dbflightsContext = await _context.Airports.Include(f => f.FlightArrivalAiroportNavigations).Where(a => a.Id == id).FirstOrDefaultAsync();
+            return View(dbflightsContext.FlightArrivalAiroportNavigations);
+        }
+
+        public async Task<IActionResult> DepartureAirport(int? id)
+        {
+            var dbflightsContext = await _context.Airports.Include(f => f.FlightDepartureAiroportNavigations).Where(b => b.Id == id).FirstOrDefaultAsync();
+            return View(dbflightsContext.FlightDepartureAiroportNavigations);
+        }
+
+
+
+
 
         // GET: Airports/Details/5
         public async Task<IActionResult> Details(int? id)
@@ -58,9 +73,9 @@ namespace FlightInfrastructure.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(int Id, [Bind("Id, CityId, Name")] Airport airport)
+        public async Task<IActionResult> Create(int Id, [Bind("Id, City, Name")] Airport airport)
         {
-            City city = _context.Cities.Include(c => c.Country).FirstOrDefault(c => c.Id == airport.CityId);
+            City city = _context.Cities.Include(c => c.Country).FirstOrDefault(c => c.Name == airport.City.Name);
             airport.City = city;
             ModelState.Clear();
             TryValidateModel(airport);
@@ -71,7 +86,7 @@ namespace FlightInfrastructure.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["Cities"] = new SelectList(_context.Cities, "Id", "Name", airport.CityId);
+            ViewData["Cities"] = new SelectList(_context.Cities, "Id", "Name", airport.City.Name);
             return View(airport);
         }
 

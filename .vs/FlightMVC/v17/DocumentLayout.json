@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\countries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\countries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\categoriesflights\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\categoriesflights\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\countries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\countries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\dbflightscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\dbflightscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\flights\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\flights\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\flights\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\flights\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\flights\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\flights\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\flights\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\flights\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\flights\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\flights\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\countries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,8 +67,32 @@
       "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\countries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\countries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\countries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\countries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\countries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\cities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\cities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\cities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\cities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\cities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\cities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\categoriesflights\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\categoriesflights\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\cities\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,32 +103,68 @@
       "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\cities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\airports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\airports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\airports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\airports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\categoriesflights\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\categoriesflights\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\airports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\airports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\categoriesflights\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\categoriesflights\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\airports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\airports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\categoriesflights\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\categoriesflights\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\airports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\airports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\airports\\arrivalairport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\airports\\arrivalairport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\airports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\airports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\cities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\cities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\airports\\departureairport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\airports\\departureairport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\cities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\cities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightdomain\\model\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|solutionrelative:flightdomain\\model\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\flights\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\flights\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,88 +175,112 @@
       "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\controllers\\airportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\flights\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\flights\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\flights\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\flights\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightdomain\\model\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|solutionrelative:flightdomain\\model\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\flightinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\flightinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightdomain\\model\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|solutionrelative:flightdomain\\model\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightdomain\\model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|solutionrelative:flightdomain\\model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\controllers\\categoriesflightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\controllers\\categoriesflightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\airports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\airports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightdomain\\model\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|solutionrelative:flightdomain\\model\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\flightinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\flightinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightdomain\\model\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|solutionrelative:flightdomain\\model\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightdomain\\model\\categoriesflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|solutionrelative:flightdomain\\model\\categoriesflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightdomain\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|solutionrelative:flightdomain\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightdomain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|solutionrelative:flightdomain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightdomain\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|solutionrelative:flightdomain\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightdomain\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|solutionrelative:flightdomain\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\tickets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\tickets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightinfrastructure\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7600F3A4-D5EB-4863-A443-4E891288D980}|FlightInfrastructure\\FlightInfrastructure.csproj|solutionrelative:flightinfrastructure\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|c:\\users\\45ksu\\desktop\\\u0456\u0441\u0442\u043F\\isadntplabdemo\\src\\flightmvc\\flightdomain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1248BB55-4AAF-4F3E-B516-4CE44BB4DDDD}|FlightDomain\\FlightDomain.csproj|solutionrelative:flightdomain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,7 +290,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,261 +298,365 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 37,
+              "Title": "bootstrap_quartz.min.css",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.min.css",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.min.css",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.min.css",
+              "RelativeToolTip": "FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-02T15:39:32.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "bootstrap_quartz.css",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.css",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.css",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.css",
+              "RelativeToolTip": "FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-02T15:39:28.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T15:25:31.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-02T15:24:35.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DepartureAirport.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\DepartureAirport.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Airports\\DepartureAirport.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\DepartureAirport.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Airports\\DepartureAirport.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T15:18:47.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "FlightInfrastructure\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:35:09.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "FlightInfrastructure\\Controllers\\CitiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:34:26.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ArrivalAirport.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\ArrivalAirport.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Airports\\ArrivalAirport.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\ArrivalAirport.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Airports\\ArrivalAirport.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T18:25:33.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CategoriesFlight.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\CategoriesFlight.cs",
+              "RelativeDocumentMoniker": "FlightDomain\\Model\\CategoriesFlight.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\CategoriesFlight.cs",
+              "RelativeToolTip": "FlightDomain\\Model\\CategoriesFlight.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:17:35.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CategoriesFlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\CategoriesFlightsController.cs",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Controllers\\CategoriesFlightsController.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\CategoriesFlightsController.cs",
+              "RelativeToolTip": "FlightInfrastructure\\Controllers\\CategoriesFlightsController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:17:34.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Country.cs",
+              "RelativeDocumentMoniker": "FlightDomain\\Model\\Country.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Country.cs",
+              "RelativeToolTip": "FlightDomain\\Model\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:07:22.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Entity.cs",
+              "RelativeDocumentMoniker": "FlightDomain\\Model\\Entity.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Entity.cs",
+              "RelativeToolTip": "FlightDomain\\Model\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:07:21.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Countries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Index.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Countries\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T18:51:51.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Edit.cshtml",
               "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Countries\\Edit.cshtml",
               "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Edit.cshtml",
               "RelativeToolTip": "FlightInfrastructure\\Views\\Countries\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T21:21:43.427Z",
+              "WhenOpened": "2024-02-27T18:51:34.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Details.cshtml",
               "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Countries\\Details.cshtml",
               "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Details.cshtml",
               "RelativeToolTip": "FlightInfrastructure\\Views\\Countries\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T21:21:39.136Z",
+              "WhenOpened": "2024-02-27T18:51:14.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Create.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Countries\\Create.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Create.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Countries\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T21:21:34.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Delete.cshtml",
               "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Countries\\Delete.cshtml",
               "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Delete.cshtml",
               "RelativeToolTip": "FlightInfrastructure\\Views\\Countries\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T21:21:30.457Z",
+              "WhenOpened": "2024-02-27T18:50:57.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Create.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Cities\\Create.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Create.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Cities\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Create.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Countries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Create.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Countries\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T21:21:18.238Z",
+              "WhenOpened": "2024-02-27T18:50:42.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\CategoriesFlights\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\CategoriesFlights\\Index.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\CategoriesFlights\\Index.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\CategoriesFlights\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T18:38:05.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Edit.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Cities\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Edit.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Cities\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\CategoriesFlights\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\CategoriesFlights\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\CategoriesFlights\\Edit.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\CategoriesFlights\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T21:20:36.219Z",
+              "WhenOpened": "2024-02-27T18:37:54.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 31,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Details.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Cities\\Details.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Details.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Cities\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\CategoriesFlights\\Details.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\CategoriesFlights\\Details.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\CategoriesFlights\\Details.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\CategoriesFlights\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAnwAMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T21:20:30.717Z",
+              "WhenOpened": "2024-02-27T18:37:33.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\CategoriesFlights\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\CategoriesFlights\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\CategoriesFlights\\Delete.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\CategoriesFlights\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T18:37:07.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\CategoriesFlights\\Create.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\CategoriesFlights\\Create.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\CategoriesFlights\\Create.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\CategoriesFlights\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T18:36:50.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T18:36:21.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T18:35:45.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Airports\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Edit.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Airports\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T18:18:41.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Airports\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Delete.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Airports\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T18:30:22.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Delete.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Cities\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Delete.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Cities\\Delete.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAANAAAA",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T21:20:11.938Z",
+              "WhenOpened": "2024-02-27T18:29:54.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Airport.cs",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Airport.cs",
-              "RelativeDocumentMoniker": "FlightDomain\\Model\\Airport.cs",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Airport.cs",
-              "RelativeToolTip": "FlightDomain\\Model\\Airport.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T17:06:49.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Flight.cs",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Flight.cs",
-              "RelativeDocumentMoniker": "FlightDomain\\Model\\Flight.cs",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Flight.cs",
-              "RelativeToolTip": "FlightDomain\\Model\\Flight.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T17:06:37.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AirportsController.cs",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\AirportsController.cs",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Controllers\\AirportsController.cs",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\AirportsController.cs",
-              "RelativeToolTip": "FlightInfrastructure\\Controllers\\AirportsController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T16:58:27.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FlightsController.cs",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\FlightsController.cs",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Controllers\\FlightsController.cs",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\FlightsController.cs",
-              "RelativeToolTip": "FlightInfrastructure\\Controllers\\FlightsController.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAcwCwAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T16:58:13.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "TicketsController.cs",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\TicketsController.cs",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Controllers\\TicketsController.cs",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\TicketsController.cs",
-              "RelativeToolTip": "FlightInfrastructure\\Controllers\\TicketsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T23:05:20.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "FlightInfrastructure\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T23:04:12.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Index.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Countries\\Index.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Countries\\Index.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Countries\\Index.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAhwCIAAAAIAAAA",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T22:53:49.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Index.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Cities\\Index.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Index.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Cities\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T22:52:52.878Z",
+              "WhenOpened": "2024-02-27T18:29:29.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "jquery.validate.min.js",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-              "RelativeToolTip": "FlightInfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfEQAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-02-25T19:25:04.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "jquery.validate.js",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "RelativeToolTip": "FlightInfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "ViewState": "AQIAAHMBAAAAAAAAAAAAAHMBAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-02-25T19:24:56.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Create.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Flights\\Create.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Create.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Flights\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T19:23:24.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Delete.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Flights\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Delete.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Flights\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T19:23:22.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 45,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "FlightInfrastructure\\Controllers\\CategoriesController.cs",
@@ -428,208 +664,520 @@
               "RelativeToolTip": "FlightInfrastructure\\Controllers\\CategoriesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T19:14:43.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Index.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Flights\\Index.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Index.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Flights\\Index.cshtml",
-              "ViewState": "AQIAACkAAAAAAAAAAAAmwDsAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T19:08:48.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T19:05:12.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T19:02:24.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T18:49:18.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T18:49:13.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FlightInfrastructure\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAiwB8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T18:46:34.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "bootstrap.css.map",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-              "RelativeToolTip": "FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-02-25T18:46:18.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "additional-methods.js",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "RelativeToolTip": "FlightInfrastructure\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "ViewState": "AQIAAMQAAAAAAAAAAIBJwMcAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-02-25T18:46:14.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FlightInfrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\FlightInfrastructure.csproj",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\FlightInfrastructure.csproj",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\FlightInfrastructure.csproj",
-              "RelativeToolTip": "FlightInfrastructure\\FlightInfrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-25T18:36:58.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Details.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Airports\\Details.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Details.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Airports\\Details.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T18:31:08.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Edit.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Airports\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Edit.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Airports\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T18:31:04.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Program.cs",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Program.cs",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Program.cs",
-              "RelativeToolTip": "FlightInfrastructure\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T18:23:31.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T18:26:30.047Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Index.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Airports\\Index.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Index.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Airports\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA4AAAA",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T18:22:15.466Z",
+              "WhenOpened": "2024-02-27T18:23:07.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Details.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Airports\\Details.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Details.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Airports\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T18:18:41.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbflightsContext.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\DbflightsContext.cs",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\DbflightsContext.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\DbflightsContext.cs",
+              "RelativeToolTip": "FlightInfrastructure\\DbflightsContext.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAiwGUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:05:28.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Program.cs",
+              "RelativeToolTip": "FlightInfrastructure\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:04:52.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T18:02:34.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Flight.cs",
+              "RelativeDocumentMoniker": "FlightDomain\\Model\\Flight.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Flight.cs",
+              "RelativeToolTip": "FlightDomain\\Model\\Flight.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:45:26.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "FlightDomain\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Category.cs",
+              "RelativeToolTip": "FlightDomain\\Model\\Category.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:45:21.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "FlightInfrastructure\\Controllers\\FlightsController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:44:57.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:41:44.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Create.cshtml",
               "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Airports\\Create.cshtml",
               "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Create.cshtml",
               "RelativeToolTip": "FlightInfrastructure\\Views\\Airports\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T18:19:23.153Z",
+              "WhenOpened": "2024-02-27T07:35:52.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Cities\\Index.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Index.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Cities\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:34:22.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Cities\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Edit.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Cities\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:34:17.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Details.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Cities\\Details.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Details.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Cities\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:34:10.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Cities\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Delete.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Cities\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:34:08.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Create.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Cities\\Create.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Cities\\Create.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Cities\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:34:04.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Create.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Flights\\Create.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Create.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Flights\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:33:51.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Flights\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Delete.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Flights\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:33:47.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Delete.cshtml",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Airports\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Delete.cshtml",
-              "RelativeToolTip": "FlightInfrastructure\\Views\\Airports\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Flights\\Index.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Index.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Flights\\Index.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAnwAMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-25T18:19:22.671Z",
+              "WhenOpened": "2024-02-27T07:33:38.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "CountriesController.cs",
-              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\CountriesController.cs",
-              "RelativeDocumentMoniker": "FlightInfrastructure\\Controllers\\CountriesController.cs",
-              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\CountriesController.cs",
-              "RelativeToolTip": "FlightInfrastructure\\Controllers\\CountriesController.cs",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Flights\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Edit.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Flights\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:33:26.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Details.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Flights\\Details.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Flights\\Details.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Flights\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:33:25.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\City.cs",
+              "RelativeDocumentMoniker": "FlightDomain\\Model\\City.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\City.cs",
+              "RelativeToolTip": "FlightDomain\\Model\\City.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:26:44.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AirportsController.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\AirportsController.cs",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Controllers\\AirportsController.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\AirportsController.cs",
+              "RelativeToolTip": "FlightInfrastructure\\Controllers\\AirportsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:24:03.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Airports\\Index.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Airports\\Index.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Airports\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:23:26.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAnwCsAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:18:47.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:16:26.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:16:24.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Class1.cs",
+              "RelativeDocumentMoniker": "FlightDomain\\Class1.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Class1.cs",
+              "RelativeToolTip": "FlightDomain\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T18:17:40.423Z"
+              "WhenOpened": "2024-02-27T07:05:08.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Ticket.cs",
+              "RelativeDocumentMoniker": "FlightDomain\\Model\\Ticket.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Ticket.cs",
+              "RelativeToolTip": "FlightDomain\\Model\\Ticket.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:01:50.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FlightInfrastructure\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:01:38.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Tickets\\Create.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Tickets\\Create.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Tickets\\Create.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Tickets\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAWwB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:01:07.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Tickets\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Tickets\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Tickets\\Delete.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Tickets\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:00:58.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Tickets\\Details.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Tickets\\Details.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Tickets\\Details.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Tickets\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:00:47.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Tickets\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Tickets\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Tickets\\Edit.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Tickets\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:00:37.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Tickets\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Tickets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Tickets\\Index.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Tickets\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:00:17.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T06:59:56.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T06:59:53.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T06:59:46.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "FlightInfrastructure\\Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T06:59:37.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FlightInfrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\FlightInfrastructure.csproj",
+              "RelativeDocumentMoniker": "FlightInfrastructure\\FlightInfrastructure.csproj",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\FlightInfrastructure.csproj",
+              "RelativeToolTip": "FlightInfrastructure\\FlightInfrastructure.csproj",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T06:58:58.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\User.cs",
+              "RelativeDocumentMoniker": "FlightDomain\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\User.cs",
+              "RelativeToolTip": "FlightDomain\\Model\\User.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA6wBwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:57:52.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Airport.cs",
+              "DocumentMoniker": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Airport.cs",
+              "RelativeDocumentMoniker": "FlightDomain\\Model\\Airport.cs",
+              "ToolTip": "C:\\Users\\45ksu\\Desktop\\\u0406\u0421\u0422\u041F\\ISadnTPLabDemo\\src\\FlightMVC\\FlightDomain\\Model\\Airport.cs",
+              "RelativeToolTip": "FlightDomain\\Model\\Airport.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:57:44.496Z",
+              "EditorCaption": ""
             }
           ]
         }

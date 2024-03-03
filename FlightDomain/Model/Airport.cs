@@ -8,13 +8,19 @@ public partial class Airport
 {
     public int Id { get; set; }
 
-    [Display(Name = "Код міста")]
+
+    [Display(Name = "Місто")]
+    [Required(ErrorMessage = "Назва міста є обов'язковою!")]
+    [MaxLength(50, ErrorMessage = "Введіть коротшу назву")]
     public int CityId { get; set; }
 
-    [Display(Name = "Назва аеропорту")]
+    [Display(Name = "Назва")]
+    [Required(ErrorMessage = "Назва є обов'язковою!")]
+    [MaxLength(50, ErrorMessage = "Введіть коротшу назву")]
     public string Name { get; set; } = null!;
-    [Required(ErrorMessage = "Поле не повинно бути порожнім")]
 
+    [Display(Name = "Місто")]
+    [Required(ErrorMessage = "Назва міста є обов'язковою!")]
     public virtual City City { get; set; } = null!;
 
     [Display(Name = "Рейси прибуття")]

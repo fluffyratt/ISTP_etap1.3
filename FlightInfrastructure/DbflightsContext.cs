@@ -84,9 +84,7 @@ public partial class DbflightsContext : DbContext
 
         modelBuilder.Entity<Flight>(entity =>
         {
-            entity.Property(e => e.Date)
-                .IsRowVersion()
-                .IsConcurrencyToken();
+            entity.Property(e => e.Date).HasColumnType("smalldatetime");            
             entity.Property(e => e.Description).HasMaxLength(50);
             entity.Property(e => e.Name).HasMaxLength(50);
 
@@ -126,7 +124,7 @@ public partial class DbflightsContext : DbContext
                 .IsUnicode(false);
             entity.Property(e => e.Name).HasMaxLength(50);
             entity.Property(e => e.PhoneNumber)
-                .HasMaxLength(50)
+                .HasMaxLength(11)
                 .IsUnicode(false);
             entity.Property(e => e.Surname).HasMaxLength(50);
         });

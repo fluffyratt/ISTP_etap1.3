@@ -149,6 +149,14 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+      "Id": "C:\\Users\\45ksu\\Desktop\\ІСТП\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.css"
+    },
+    {
+      "Id": "C:\\Users\\45ksu\\Desktop\\ІСТП\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap_quartz.min.css"
+    },
+    {
       "Id": "C:\\Users\\45ksu\\Desktop\\ІСТП\\ISadnTPLabDemo\\src\\FlightMVC\\FlightInfrastructure\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },

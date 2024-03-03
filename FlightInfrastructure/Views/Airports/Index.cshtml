@@ -1,12 +1,10 @@
 ﻿@model IEnumerable<FlightDomain.Model.Airport>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Аеропорти";
 }
 
 <h1>АЕРОПОРТИ</h1>
-<p>Інформація про аеропорти</p>
-
 <p>
     <a asp-action="Create">Створити новий аеропорт</a>
 </p>
@@ -18,7 +16,7 @@
                 @Html.DisplayNameFor(model => model.Name)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CityId)
+                @Html.DisplayNameFor(model => model.City.Name)
             </th>
         </tr>
     </thead>
@@ -29,14 +27,14 @@
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.CityId)
+                @Html.DisplayFor(modelItem => item.City.Name)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Редагувати</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">Детальна інформація</a> |
                 <a asp-action="Delete" asp-route-id="@item.Id">Видалити</a> |
-                <a asp-action="DepartureAirport" asp-route-id="@item.Id">Рейси прибуття</a> |
-                <a asp-action="ArrivalAirport" asp-route-id="@item.Id">Рейси відбуття</a>
+                <a asp-action="ArrivalAirport" asp-route-id="@item.Id">Рейси прибуття</a> |
+                <a asp-action="DepartureAirport" asp-route-id="@item.Id">Рейси відбуття</a>
            </td>
         </tr>
 }
