@@ -31,6 +31,11 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Редагувати</a> |
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">
+        <button type="button" class="btn btn-primary">Редагувати</button>
+    </a>
+
+    <a asp-action="Index">
+        <button type="button">Назад до квитків</button>
+    </a>
 </div>

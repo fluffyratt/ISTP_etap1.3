@@ -3,6 +3,22 @@
 @{
     ViewData["Title"] = "Міста";
 }
+<style>
+    .edit-btn {
+        background-color: lightcyan;
+        color: black;
+    }
+
+    .details-btn {
+        background-color: lightcyan;
+        color: black;
+    }
+
+    .delete-btn {
+        background-color: lightcyan;
+        color: black;
+    }
+</style>
 
 <h1>МІСТА</h1>
 
@@ -31,9 +47,9 @@
                 @Html.DisplayFor(modelItem => item.Country.Name)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Редагувати</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Детальна інформація</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Видалити</a>
+                    <button type="button" class="edit-btn rounded-circle" onclick="location.href='@Url.Action("Edit", new { id = item.Id })'">Редагувати</button> |
+                    <button type="button" class="details-btn rounded-circle" onclick="location.href='@Url.Action("Details", new { id = item.Id })'">Детальна інформація</button> |
+                    <button type="button" class="delete-btn rounded-circle" onclick="location.href='@Url.Action("Delete", new { id = item.Id })'">Видалити</button> |
             </td>
         </tr>
 }

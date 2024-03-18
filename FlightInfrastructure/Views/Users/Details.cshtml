@@ -37,6 +37,43 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Редагувати</a> |
-    <a asp-action="Index">Назад</a>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">
+        <button type="button" class="btn btn-primary">Редагувати</button>
+    </a>
+
+    <a asp-action="Index">
+        <button type="button">Назад</button>
+    </a>
 </div>
+
+
+<h2>Придбані квитки</h2>
+<hr />
+
+@if (Model.Tickets.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th class="table-name">Ціна</th>
+                <th class="table-name">Назва категорії</th>
+                <th class="table-name">Дата</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ticket in Model.Tickets)
+            {
+                <tr>
+                    <td>@ticket.CategoriesFlights.Price</td>
+                    <td>@ticket.CategoriesFlights.Category.Name</td>
+                    <td>@ticket.PurchaseDate.ToString("dd.MM.yyyy")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Цей клієнт ще не зробив жодного бронювання.</p>
+}
+

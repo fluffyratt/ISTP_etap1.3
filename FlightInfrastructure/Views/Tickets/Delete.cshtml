@@ -30,10 +30,13 @@
             @Html.DisplayFor(model => model.User.Email)
         </dd>
     </dl>
-    
+
     <form asp-action="Delete">
         <input type="hidden" asp-for="Id" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Назад</a>
+        <button type="submit" class="btn btn-danger">Видалити</button>
     </form>
+
+    <a asp-action="Index">
+        <button type="button" class="btn btn-secondary">Назад до квитків</button>
+    </a>
 </div>

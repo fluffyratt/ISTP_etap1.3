@@ -20,17 +20,17 @@ namespace FlightInfrastructure.Controllers
         }
 
         // GET: CategoriesFlights
-        public async Task<IActionResult> Index(int? id, string? name)
+        public async Task<IActionResult> Index(int? id, string? name) 
         {
-            if(id == null) return RedirectToAction("Categories", "Index");
+          //  if(id == null) return RedirectToAction("Categories", "Index"); 
             // знаходження авіарейсів за категорією
-            ViewBag.CategoryId = id;
-            ViewBag.CategoryName = name;
-            var flightByCategory = _context.CategoriesFlights.Where(b  => b.CategoryId == id).Include(b => b.Category);
+          //  ViewBag.CategoryId = id;
+         //   ViewBag.CategoryName = name;
+         //   var flightByCategory = _context.CategoriesFlights.Where(b  => b.CategoryId == id).Include(b => b.CategoryN);
 
-            return View(flightByCategory.ToListAsync());
+        //    return View(flightByCategory.ToListAsync()); 
 
-            var dbflightsContext = _context.CategoriesFlights.Include(c => c.Category).Include(c => c.Flight);
+            var dbflightsContext = _context.CategoriesFlights.Include(c => c.Category).Include(c => c.Flight.Name);
             return View(await dbflightsContext.ToListAsync());
         }
 
@@ -44,7 +44,7 @@ namespace FlightInfrastructure.Controllers
 
             var categoriesFlight = await _context.CategoriesFlights
                 .Include(c => c.Category)
-                .Include(c => c.Flight)
+                .Include(c => c.Flight.Name)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (categoriesFlight == null)
             {
@@ -57,7 +57,8 @@ namespace FlightInfrastructure.Controllers
         // GET: CategoriesFlights/Create
         public IActionResult Create()
         {
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name");
+
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name"); 
             ViewData["FlightId"] = new SelectList(_context.Flights, "Id", "Description");
             return View();
         }
@@ -75,7 +76,7 @@ namespace FlightInfrastructure.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", categoriesFlight.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", categoriesFlight.CategoryId);
             ViewData["FlightId"] = new SelectList(_context.Flights, "Id", "Description", categoriesFlight.FlightId);
             return View(categoriesFlight);
         }
@@ -94,7 +95,7 @@ namespace FlightInfrastructure.Controllers
                 return NotFound();
             }
             ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", categoriesFlight.CategoryId);
-            ViewData["FlightId"] = new SelectList(_context.Flights, "Id", "Description", categoriesFlight.FlightId);
+            ViewData["FlightId"] = new SelectList(_context.Flights, "Id", "Name", categoriesFlight.FlightId);
             return View(categoriesFlight);
         }
 

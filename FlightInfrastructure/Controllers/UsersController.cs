@@ -34,7 +34,10 @@ namespace FlightInfrastructure.Controllers
             }
 
             var user = await _context.Users
-                .FirstOrDefaultAsync(m => m.Id == id);
+               .Include(c => c.Tickets)
+                   .ThenInclude(r => r.CategoriesFlights)
+                   .ThenInclude(r => r.Category)
+               .FirstOrDefaultAsync(m => m.Id == id);
             if (user == null)
             {
                 return NotFound();

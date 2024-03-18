@@ -51,7 +51,7 @@ public partial class DbflightsContext : DbContext
         {
             entity.ToTable("Categories_Flights");
 
-            entity.HasOne(d => d.Category).WithMany(p => p.CategoriesFlights)
+            entity.HasOne(d => d.Category).WithMany(p => p.Categories)
                 .HasForeignKey(d => d.CategoryId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_Categories_Flights_Categories");

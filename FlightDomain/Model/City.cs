@@ -8,11 +8,12 @@ public partial class City
 {
     public int Id { get; set; }
 
-    [Display(Name = "Назва міста")]
-    [Required(ErrorMessage = "Напишіть будь-яке місто!")]
+    [Required(ErrorMessage = "Назва міста є обов'язковою!")]
+    [MaxLength(50, ErrorMessage = "Введіть коротшу назву міста")]
+    [Display(Name = "Місто")]
     public string Name { get; set; } = null!;
 
-    [Display(Name = "Назва Країни")]
+    [Display(Name = "Країна")]
     [Required(ErrorMessage = "Оберіть країну!")]
     public int CountryId { get; set; }
 

@@ -556,4 +556,3 @@ C:\Users\45ksu\Desktop\ІСТП\ISadnTPLabDemo\src\FlightMVC\FlightInfrastructur
 C:\Users\45ksu\Desktop\ІСТП\ISadnTPLabDemo\src\FlightMVC\FlightInfrastructure\obj\Debug\net8.0\FlightInfrastructure.pdb
 C:\Users\45ksu\Desktop\ІСТП\ISadnTPLabDemo\src\FlightMVC\FlightInfrastructure\obj\Debug\net8.0\FlightInfrastructure.genruntimeconfig.cache
 C:\Users\45ksu\Desktop\ІСТП\ISadnTPLabDemo\src\FlightMVC\FlightInfrastructure\obj\Debug\net8.0\ref\FlightInfrastructure.dll
-C:\Users\45ksu\Desktop\ІСТП\ISadnTPLabDemo\src\FlightMVC\FlightInfrastructure\obj\Debug\net8.0\FlightInfrastructure.sourcelink.json

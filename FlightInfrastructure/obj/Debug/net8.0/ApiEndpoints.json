@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "ContainingType": "FlightInfrastructure.Controllers.ChartController",
+    "Method": "JsonData",
+    "RelativePath": "api/Chart/JsonData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FlightInfrastructure.Controllers.ValuesController",
+    "Method": "JsonData",
+    "RelativePath": "api/Values/JsonData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

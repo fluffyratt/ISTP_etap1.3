@@ -4,10 +4,39 @@
     ViewData["Title"] = "Аеропорти";
 }
 
+
+<style>
+    .edit-btn {
+        background-color: lightcyan;
+        color: black; 
+    }
+
+    .details-btn {
+        background-color: lightcyan;
+        color: black; 
+    }
+
+    .delete-btn {
+        background-color: lightcyan;
+        color: black;
+    }
+
+    .arrival-btn {
+        background-color: lightcyan;
+        color: black;
+    }
+
+    .departure-btn {
+        background-color: lightcyan;
+        color: black;
+    }
+</style>
+
 <h1>АЕРОПОРТИ</h1>
 <p>
     <a asp-action="Create">Створити новий аеропорт</a>
 </p>
+
 
 <table class="table">
     <thead>
@@ -29,14 +58,14 @@
             <td>
                 @Html.DisplayFor(modelItem => item.City.Name)
             </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Редагувати</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Детальна інформація</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Видалити</a> |
-                <a asp-action="ArrivalAirport" asp-route-id="@item.Id">Рейси прибуття</a> |
-                <a asp-action="DepartureAirport" asp-route-id="@item.Id">Рейси відбуття</a>
-           </td>
-        </tr>
+                <td>
+                    <button type="button" class="edit-btn rounded-circle" onclick="location.href='@Url.Action("Edit", new { id = item.Id })'">Редагувати</button> |
+                    <button type="button" class="details-btn rounded-circle" onclick="location.href='@Url.Action("Details", new { id = item.Id })'">Детальна інформація</button> |
+                    <button type="button" class="delete-btn rounded-circle" onclick="location.href='@Url.Action("Delete", new { id = item.Id })'">Видалити</button> |
+                    <button type="button" class="arrival-btn rounded-circle" onclick="location.href='@Url.Action("ArrivalAirport", new { id = item.Id })'">Рейси прибуття</button> |
+                    <button type="button" class="departure-btn rounded-circle" onclick="location.href='@Url.Action("DepartureAirport", new { id = item.Id })'">Рейси відбуття</button>
+                </td>
+       </tr>
 }
     </tbody>
 </table>

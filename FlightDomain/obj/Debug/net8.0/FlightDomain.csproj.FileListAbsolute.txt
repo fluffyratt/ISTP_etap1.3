@@ -313,4 +313,3 @@ C:\Users\45ksu\Desktop\ІСТП\ISadnTPLabDemo\src\FlightMVC\FlightDomain\obj\De
 C:\Users\45ksu\Desktop\ІСТП\ISadnTPLabDemo\src\FlightMVC\FlightDomain\obj\Debug\net8.0\FlightDomain.pdb
 C:\Users\45ksu\Desktop\ІСТП\ISadnTPLabDemo\src\FlightMVC\FlightDomain\obj\Debug\net8.0\FlightDomain.genruntimeconfig.cache
 C:\Users\45ksu\Desktop\ІСТП\ISadnTPLabDemo\src\FlightMVC\FlightDomain\obj\Debug\net8.0\ref\FlightDomain.dll
-C:\Users\45ksu\Desktop\ІСТП\ISadnTPLabDemo\src\FlightMVC\FlightDomain\obj\Debug\net8.0\FlightDomain.sourcelink.json

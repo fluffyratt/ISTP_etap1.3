@@ -10,9 +10,9 @@ public partial class Category
 
     [Required(ErrorMessage = "Назва категорії є обов'язковою!")]
     [MaxLength(50, ErrorMessage = "Введіть коротшу назву категорії")]
-    [Display(Name = "Категорія(бізнес/економ")]
+    [Display(Name = "Категорія(бізнес/економ)")]
     public string Name { get; set; } = null!;
 
     [Display(Name = "Авіарейси")]
-    public virtual ICollection<CategoriesFlight> CategoriesFlights { get; } = new List<CategoriesFlight>();
+    public virtual ICollection<CategoriesFlight> Categories { get; } = new List<CategoriesFlight>();
 }

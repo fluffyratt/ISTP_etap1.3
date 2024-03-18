@@ -8,8 +8,10 @@ public partial class Country
 {
     public int Id { get; set; }
 
-    [Display(Name = "Назва")]
+
     [Required(ErrorMessage = "Назва країни є обов'язковою!")]
+    [MaxLength(50, ErrorMessage = "Введіть коротшу назву країни")]
+    [Display(Name = "Країна")]
     public string Name { get; set; } = null!;
 
     [Display(Name = "Міста")]

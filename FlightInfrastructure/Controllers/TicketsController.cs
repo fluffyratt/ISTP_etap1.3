@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using FlightDomain.Model;
 using FlightInfrastructure;
+using Microsoft.Identity.Client;
 
 namespace FlightInfrastructure.Controllers
 {
@@ -22,7 +23,7 @@ namespace FlightInfrastructure.Controllers
         // GET: Tickets
         public async Task<IActionResult> Index()
         {
-            var dbflightsContext = _context.Tickets.Include(t => t.CategoriesFlights).Include(t => t.User);
+            var dbflightsContext = _context.Tickets.Include(t => t.CategoriesFlights).Include(t => t.User).Include(t => t.CategoriesFlights.Category);
             return View(await dbflightsContext.ToListAsync());
         }
 
@@ -37,6 +38,7 @@ namespace FlightInfrastructure.Controllers
             var ticket = await _context.Tickets
                 .Include(t => t.CategoriesFlights)
                 .Include(t => t.User)
+                .Include(t => t.CategoriesFlights.Category)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (ticket == null)
             {
@@ -49,9 +51,20 @@ namespace FlightInfrastructure.Controllers
         // GET: Tickets/Create
         public IActionResult Create()
         {
-            ViewData["CategoriesFlightsId"] = new SelectList(_context.CategoriesFlights, "Id", "Id");
+            IList<CategoryFlightsSelector> list = new List<CategoryFlightsSelector>();
+            foreach (var flight in _context.CategoriesFlights.Include(c => c.Category).AsNoTracking())
+           {
+              list.Add(new CategoryFlightsSelector { Id = flight.Id, Name = flight.Category.Name });
+           } 
+            ViewData["CategoriesFlightsId"] = new SelectList(_context.CategoriesFlights, "Id", "Name");
             ViewData["UserId"] = new SelectList(_context.Users, "Id", "Email");
             return View();
+        }
+
+        private class CategoryFlightsSelector  {
+            public string Name { get; set; } = null!;
+            public int Id { get; set; }
+           
         }
 
         // POST: Tickets/Create

@@ -9,7 +9,8 @@ public partial class Ticket
     public int Id { get; set; }
 
     [Display(Name = "Дата купівлі")]
-    public byte[] PurchaseDate { get; set; } = null!;
+    [Required(ErrorMessage = "Дата  є обов'язковими!")]
+    public DateTime PurchaseDate { get; set; }
 
 
     [Display(Name = "Користувач")]

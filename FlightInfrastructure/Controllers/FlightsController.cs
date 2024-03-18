@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using FlightDomain.Model;
 using FlightInfrastructure;
+using NuGet.DependencyResolver;
 
 namespace FlightInfrastructure.Controllers
 {
@@ -20,13 +21,17 @@ namespace FlightInfrastructure.Controllers
         }
 
         // GET: Flights
-          public async Task<IActionResult> Index()
+          public async Task<IActionResult> Index(int? id, string? name)
           { 
 
               var dbflightsContext = _context.Flights.Include(f => f.ArrivalAiroportNavigation).Include(f => f.DepartureAiroportNavigation);
 
               return View(await dbflightsContext.ToListAsync());
+
+
         }
+
+
 
         // GET : DepartureAirport
 
@@ -87,6 +92,12 @@ namespace FlightInfrastructure.Controllers
                   await _context.SaveChangesAsync();
                   return RedirectToAction(nameof(Index));
               }
+
+             if (flight.Date.Year < 1934 || flight.Date.Year > DateTime.Now.Year - 20)
+                {
+                ModelState.AddModelError("Date", "Дата авіарейсу повинна бути валідна");
+                }
+
               ViewData["ArrivalAiroport"] = new SelectList(_context.Airports, "Id", "Name", flight.ArrivalAiroport);
               ViewData["DepartureAiroport"] = new SelectList(_context.Airports, "Id", "Name", flight.DepartureAiroport);
               return View(flight);
@@ -106,6 +117,12 @@ namespace FlightInfrastructure.Controllers
             {
                 return NotFound();
             }
+
+            if (flight.Date.Year < 1934 || flight.Date.Year > DateTime.Now.Year - 20)
+            {
+                ModelState.AddModelError("Date", "Дата авіарейсу повинна бути валідна");
+            }
+
             ViewData["ArrivalAiroport"] = new SelectList(_context.Airports, "Id", "Name", flight.ArrivalAiroport);
             ViewData["DepartureAiroport"] = new SelectList(_context.Airports, "Id", "Name", flight.DepartureAiroport);
             return View(flight);

@@ -1,5 +1,60 @@
 ﻿@{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Мандруй навколо";
 
-}
+    <head>
+        <style>
 
+            body {
+                font-family: Garamond, serif;
+            }
+
+        </style>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>@ViewData["Title"]</title>
+        <style>
+            body {
+                margin: 20px;
+                overflow: auto;
+                color-scheme: auto;
+               
+            }
+
+
+            .full-screen-image {
+                width: 70%;
+                height: 70vh; /* Займати 100% висоти екрану */
+                object-fit: cover; /* Заповнити весь контейнер, зберігаючи пропорції */
+                border: 10px solid orange; 
+            }
+
+
+            .center {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh; /* Вирівняти картинку по центру */
+            }
+        </style>
+    </head>
+<body>
+        <CENTER>
+            <H1>
+                <FONT FACE="Decor, Arbat, Kudriashov"
+                      SIZE=30 COLOR="Maroon">
+
+
+                    Welcome to our site!
+
+
+                </FONT>
+            </H1>
+
+        <div class="center">
+            <img class="full-screen-image" src="https://th.bing.com/th/id/OIG4.a.LAhjhcTjhl24m8WIbg?pid=ImgGn" />
+           
+        </div>
+</body>
+   }
+ 
