@@ -15,7 +15,6 @@ public partial class CategoriesFlight
     [Display(Name = "Номер місця")]
     public int SeatsNumber { get; set; }
 
-
     [Display(Name = "Ціна")]
     [Required(ErrorMessage = "Ціна є обов'язковою!")]
     [RegularExpression(@"^\d+(\.\d{1,2})?$", ErrorMessage = "Ціна повинна бути додатнім десятковим числом з максимально двома знаками після крапки")]
