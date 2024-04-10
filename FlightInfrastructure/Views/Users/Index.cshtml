@@ -69,41 +69,29 @@
     </tbody>
 </table>
 
-<script>
-    google.charts.load('current', { 'packages': ['corechart'] });
-    google.charts.setOnLoadCallback(drawChart);
+<div class="container">
+    <div id="chart1"></div>
+</div>
+@section scripts {
+    <script type "text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(drawChart);
 
-    function drawChart() {
-        $.get('/api/ValuesController/JsonData')
-            .done(function (JsonData) {
-                var data = google.visualization.arrayToDataTable(JsonData, false);
+        function drawChart() {
 
-                // Визначте висоту на основі кількості рядків даних.
-                var chartHeight = data.getNumberOfRows() * 60; // 30 - це висота кожного рядка в пікселях.
-
-                var options = {
-                    title: "Кількість квитків клієнта",
-                    width: 1000,
-                    height: chartHeight,
-                    colors: ['#dacdd2'],
-                    vAxis: { format: '0' },
-                    hAxis: { format: '0', minValue: 0, maxValue: Math.ceil(data.getColumnRange(1).max) },
-                    legend: 'none'
+            $.get('/api/Chart/JsonData', function (JsonData) {
+                data = google.visualization.arrayToDataTable(JsonData, false);
+                var option = {
+                    title: "Співвідношення кількості квитків за категоріями",
+                    width: 500,
+                    height: 300
                 };
-
-                // Сортуємо дані за кількістю квитків.
-                var sortedData = google.visualization.data.group(
-                    data,
-                    [0],
-                    [{ 'column': 1, 'aggregation': google.visualization.data.sum, 'type': 'number' }]
-                );
-                sortedData.sort({ column: 1, desc: false });
-
-                var chart = new google.visualization.BarChart(document.getElementById('ValuesController'));
-                chart.draw(sortedData, options);
+                chart = new google.visualization.PieChart(document.getElementById('chart1'));
+                chart.draw(data, option);
             })
-            .fail(function (error) {
-                console.error('Error loading data:', error);
-            });
-    }
-</script>
+        }
+    </script>
+}
+ 

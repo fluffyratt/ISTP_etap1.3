@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using FlightDomain.Model;
 using FlightInfrastructure;
+using DocumentFormat.OpenXml.Spreadsheet;
 
 namespace FlightInfrastructure.Controllers
 {
@@ -89,6 +90,13 @@ namespace FlightInfrastructure.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Name")] Category category)
         {
+            var existingCategory = await _context.Categories.FirstOrDefaultAsync(c => c.Name == category.Name);
+
+            if (existingCategory != null)
+            {
+                ModelState.AddModelError("Name", "Така категорія вже існує");
+                return View(category);
+            }
             if (id != category.Id)
             {
                 return NotFound();

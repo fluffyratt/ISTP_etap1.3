@@ -4,55 +4,33 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using FlightInfrastructure.Models; 
+using FlightInfrastructure.Models;
 
 namespace FlightInfrastructure.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class TicketChartsController : ControllerBase
     {
+        private record CountByCategoryResponseItem(string CategoryName, int Count);
+
         private readonly DbflightsContext _context;
 
-        public ValuesController(DbflightsContext context)
+        public TicketChartsController(DbflightsContext context)
         {
             _context = context;
         }
 
-        [HttpGet("JsonData")]
-        public IActionResult JsonData()
+        [HttpGet("countByCategory")]
+        public async Task<JsonResult> GetCountByCategoryAsync(CancellationToken cancellationToken)
         {
-            try
-            {
-                var users = _context.Users.Include(c => c.Tickets).ToList();
-                var uTickets = new List<UserTicketsDto>();
+            var responseItems = await _context
+                .CategoriesFlights
+                .Include(category => category.Tickets)
+                .Select(category => new CountByCategoryResponseItem(category.Category.Name, category.Tickets.Count))
+                .ToListAsync(cancellationToken);
 
-                foreach (var user in users)
-                {
-                    uTickets.Add(new UserTicketsDto
-                    {
-                        User = user.Name + " " + user.Email,
-                        TicketCount = user.Tickets.Count()
-                    });
-                }
-
-                return Ok(uTickets);
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
-            }
+            return new JsonResult(responseItems);
         }
     }
 }
-
-namespace FlightInfrastructure.Models
-{
-    public class UserTicketsDto
-    {
-        public string User { get; set; }
-        public int TicketCount { get; set; }
-    }
-}
-
-

@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using FlightDomain.Model;
 using FlightInfrastructure;
 using Microsoft.Identity.Client;
+using DocumentFormat.OpenXml.Bibliography;
 
 namespace FlightInfrastructure.Controllers
 {
@@ -51,21 +52,22 @@ namespace FlightInfrastructure.Controllers
         // GET: Tickets/Create
         public IActionResult Create()
         {
-            IList<CategoryFlightsSelector> list = new List<CategoryFlightsSelector>();
-            foreach (var flight in _context.CategoriesFlights.Include(c => c.Category).AsNoTracking())
-           {
-              list.Add(new CategoryFlightsSelector { Id = flight.Id, Name = flight.Category.Name });
-           } 
-            ViewData["CategoriesFlightsId"] = new SelectList(_context.CategoriesFlights, "Id", "Name");
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Email");
-            return View();
-        }
+             IList<CategoryFlightsSelector> list = new List<CategoryFlightsSelector>();
+              foreach (var flight in _context.CategoriesFlights.Include(c => c.Category).AsNoTracking())
+             {
+                list.Add(new CategoryFlightsSelector { Id = flight.Id, Name = flight.Category.Name });
+             } 
+              ViewData["CategoriesFlightsId"] = new SelectList(_context.CategoriesFlights, "Id", "Name");
+              ViewData["UserId"] = new SelectList(_context.Users, "Id", "Email");
+              return View();
+          }
 
-        private class CategoryFlightsSelector  {
-            public string Name { get; set; } = null!;
-            public int Id { get; set; }
-           
-        }
+          private class CategoryFlightsSelector  {
+              public string Name { get; set; } = null!;
+              public int Id { get; set; }
+
+          }
+
 
         // POST: Tickets/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
@@ -74,6 +76,13 @@ namespace FlightInfrastructure.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,PurchaseDate,UserId,CategoriesFlightsId")] Ticket ticket)
         {
+            var existingTicket = await _context.Tickets.FirstOrDefaultAsync(c => c.Id == ticket.Id);
+            if (existingTicket != null)
+            {
+                ModelState.AddModelError("Id", "Такий квиток вже існує");
+                return View(ticket);
+            }
+
             if (ModelState.IsValid)
             {
                 _context.Add(ticket);

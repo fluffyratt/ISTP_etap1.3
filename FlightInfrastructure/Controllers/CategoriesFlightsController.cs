@@ -20,17 +20,17 @@ namespace FlightInfrastructure.Controllers
         }
 
         // GET: CategoriesFlights
-        public async Task<IActionResult> Index(int? id, string? name) 
+        public async Task<IActionResult> Index(int? id, string? name)
         {
-          //  if(id == null) return RedirectToAction("Categories", "Index"); 
+            //  if(id == null) return RedirectToAction("Categories", "Index"); 
             // знаходження авіарейсів за категорією
-          //  ViewBag.CategoryId = id;
-         //   ViewBag.CategoryName = name;
-         //   var flightByCategory = _context.CategoriesFlights.Where(b  => b.CategoryId == id).Include(b => b.CategoryN);
+            //  ViewBag.CategoryId = id;
+            //   ViewBag.CategoryName = name;
+            //   var flightByCategory = _context.CategoriesFlights.Where(b  => b.CategoryId == id).Include(b => b.CategoryN);
 
-        //    return View(flightByCategory.ToListAsync()); 
+            //    return View(flightByCategory.ToListAsync()); 
 
-            var dbflightsContext = _context.CategoriesFlights.Include(c => c.Category).Include(c => c.Flight.Name);
+            var dbflightsContext = _context.CategoriesFlights.Include(c => c.Category).Include(c => c.Flight);
             return View(await dbflightsContext.ToListAsync());
         }
 
@@ -44,7 +44,7 @@ namespace FlightInfrastructure.Controllers
 
             var categoriesFlight = await _context.CategoriesFlights
                 .Include(c => c.Category)
-                .Include(c => c.Flight.Name)
+                .Include(c => c.Flight)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (categoriesFlight == null)
             {

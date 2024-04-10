@@ -10,9 +10,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "FlightInfrastructure.Controllers.ValuesController",
-    "Method": "JsonData",
-    "RelativePath": "api/Values/JsonData",
+    "ContainingType": "FlightInfrastructure.Controllers.TicketChartsController",
+    "Method": "GetCountByCategoryAsync",
+    "RelativePath": "api/TicketCharts/countByCategory",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

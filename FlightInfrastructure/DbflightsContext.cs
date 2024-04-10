@@ -43,7 +43,7 @@ public partial class DbflightsContext : DbContext
 
             entity.HasOne(d => d.City).WithMany(p => p.Airports)
                 .HasForeignKey(d => d.CityId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK_Airports_Cities");
         });
 
@@ -53,12 +53,12 @@ public partial class DbflightsContext : DbContext
 
             entity.HasOne(d => d.Category).WithMany(p => p.Categories)
                 .HasForeignKey(d => d.CategoryId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK_Categories_Flights_Categories");
 
             entity.HasOne(d => d.Flight).WithMany(p => p.CategoriesFlights)
                 .HasForeignKey(d => d.FlightId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK_Categories_Flights_Flights");
         });
 
@@ -73,7 +73,7 @@ public partial class DbflightsContext : DbContext
 
             entity.HasOne(d => d.Country).WithMany(p => p.Cities)
                 .HasForeignKey(d => d.CountryId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK_Cities_Countries");
         });
 
@@ -90,12 +90,12 @@ public partial class DbflightsContext : DbContext
 
             entity.HasOne(d => d.ArrivalAiroportNavigation).WithMany(p => p.FlightArrivalAiroportNavigations)
                 .HasForeignKey(d => d.ArrivalAiroport)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK_Flights_Airports1");
 
             entity.HasOne(d => d.DepartureAiroportNavigation).WithMany(p => p.FlightDepartureAiroportNavigations)
                 .HasForeignKey(d => d.DepartureAiroport)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK_Flights_Airports");
         });
 
@@ -108,12 +108,12 @@ public partial class DbflightsContext : DbContext
 
             entity.HasOne(d => d.CategoriesFlights).WithMany(p => p.Tickets)
                 .HasForeignKey(d => d.CategoriesFlightsId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK_Tickets_Categories_Flights");
 
             entity.HasOne(d => d.User).WithMany(p => p.Tickets)
                 .HasForeignKey(d => d.UserId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK_Tickets_Users");
         });
 

@@ -65,3 +65,50 @@
 }
     </tbody>
 </table>
+
+<div class="row">
+    <div class="col-3">
+        <div id="countByCategoryValues"></div>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(drawCharts);
+
+        function drawCharts() {
+            fetch('/api/ticketcharts/countByCategory')
+                .then(response => response.json())
+                .then(data => {
+                    const dataTable = new google.visualization.DataTable();
+                    dataTable.addColumn('string', 'Назва');
+                    dataTable.addColumn('number', 'Кількість');
+
+                    data.forEach(item => {
+                        dataTable.addRow([item.categoryName, item.count]);
+                    });
+
+                    const options = {
+                        title: 'Квитки за категоріями',
+                        titleTextStyle: {
+                            fontSize: 20, // Розмір шрифту, встановлення відповідно до вашого вибору
+                            bold: true, // Жирний шрифт, якщо потрібно
+                            color: '#800080', // Колір тексту
+                        },
+                        width: 600,
+                        height: 400,
+                        legend: { position: 'none' },
+                        colors: ['800080']
+                    };
+
+                    const chart = new google.visualization.ColumnChart(document.getElementById('countByCategoryValues'));
+
+                    chart.draw(dataTable, options);
+                });
+        }
+    </script>
+}
+

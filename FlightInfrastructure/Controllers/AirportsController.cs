@@ -75,10 +75,19 @@ namespace FlightInfrastructure.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(int Id, [Bind("Id, City, Name")] Airport airport)
         {
+
+            var existingAirport = await _context.Airports.FirstOrDefaultAsync(c => c.Name == airport.Name);
+            if (existingAirport != null)
+            {
+                ModelState.AddModelError("Name", "Аеоропорт з такою назвою вже існує.");
+                return View(airport);
+            }
+
             City city = _context.Cities.Include(c => c.Country).FirstOrDefault(c => c.Name == airport.City.Name);
             airport.City = city;
             ModelState.Clear();
             TryValidateModel(airport);
+
 
             if (ModelState.IsValid)
             {

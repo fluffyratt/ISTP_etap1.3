@@ -1,4 +1,5 @@
 ﻿@model FlightDomain.Model.Ticket
+using
 
 @{
     ViewData["Title"] = "Create";
@@ -17,8 +18,9 @@
                 <select asp-for="UserId" class="form-control" asp-items="ViewBag.UserId"></select>
             </div>
             <div class="form-group">
-                <label asp-for="CategoriesFlightsId" class="control-label"></label>
-                <select asp-for="CategoriesFlightsId" class="form-control" asp-items="ViewBag.CategoriesFlightsId"></select>
+                <label for="CategoriesFlightsId" class="control-label">Категорія</label>
+                <select id="CategoriesFlightsId" name="CategoriesFlightsId" class="form-control">
+                    </select>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />

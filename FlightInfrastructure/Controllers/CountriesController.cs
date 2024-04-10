@@ -54,8 +54,15 @@ namespace FlightInfrastructure.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+
         public async Task<IActionResult> Create([Bind("Id,Name")] Country country)
         {
+            var existingCountry = await _context.Countries.FirstOrDefaultAsync(c => c.Name == country.Name);
+            if (existingCountry != null)
+            {
+                ModelState.AddModelError("Name", "Країна з такою назвою вже існує.");
+                return View(country);
+            }
             if (ModelState.IsValid)
             {
                 _context.Add(country);
@@ -68,11 +75,11 @@ namespace FlightInfrastructure.Controllers
         // GET: Countries/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
+
             if (id == null)
             {
                 return NotFound();
             }
-
             var country = await _context.Countries.FindAsync(id);
             if (country == null)
             {

@@ -2,31 +2,27 @@
     ViewData["Title"] = "Мандруй навколо";
 
     <head>
-        <style>
-
-            body {
-                font-family: Garamond, serif;
-            }
-
-        </style>
-
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>@ViewData["Title"]</title>
+
         <style>
             body {
+                font-family: Garamond, serif;
+                background-color: #EEE8AA;
                 margin: 20px;
                 overflow: auto;
-                color-scheme: auto;
-               
+                color-scheme: auto;              
             }
 
 
             .full-screen-image {
                 width: 70%;
-                height: 70vh; /* Займати 100% висоти екрану */
+                height: auto; /* Автоматично змінюємо висоту зображення */
+                max-height: calc(70vh - 50px); /* Задаємо максимальну висоту зображення, вираховану від висоти екрану мінус висота заголовка */
                 object-fit: cover; /* Заповнити весь контейнер, зберігаючи пропорції */
-                border: 10px solid orange; 
+                border: 5px solid black;
+                margin-bottom: 20px; /* Додаємо відступ вниз */
             }
 
 
@@ -36,6 +32,7 @@
                 align-items: center;
                 height: 100vh; /* Вирівняти картинку по центру */
             }
+
         </style>
     </head>
 <body>
@@ -44,8 +41,9 @@
                 <FONT FACE="Decor, Arbat, Kudriashov"
                       SIZE=30 COLOR="Maroon">
 
-
                     Welcome to our site!
+                    <br /> <!-- Додаємо перехід на новий рядок -->
+                    We're pleasure to see you ^.^
 
 
                 </FONT>

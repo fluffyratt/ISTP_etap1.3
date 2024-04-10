@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace FlightDomain.Model;
 
-public partial class Category
+public partial class Category 
 {
     public int Id { get; set; }
 

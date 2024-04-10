@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using FlightDomain.Model;
 using FlightInfrastructure;
+using System.Diagnostics.Metrics;
 
 namespace FlightInfrastructure.Controllers
 {
@@ -59,6 +60,13 @@ namespace FlightInfrastructure.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Name,CountryId")] City city)
         {
+            var existingCity = await _context.Cities.FirstOrDefaultAsync(c => c.Name == city.Name);
+            if (existingCity != null)
+            {
+                ModelState.AddModelError("Name", "Місто з такою назвою вже існує.");
+                return View(city);
+            }
+
             if (ModelState.IsValid)
             {
                 _context.Add(city);

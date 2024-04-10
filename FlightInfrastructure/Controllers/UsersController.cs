@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using FlightDomain.Model;
 using FlightInfrastructure;
+using System.Net.Sockets;
 
 namespace FlightInfrastructure.Controllers
 {
@@ -59,6 +60,14 @@ namespace FlightInfrastructure.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Name,Surname,Email,PhoneNumber")] User user)
         {
+
+            var existingUser = await _context.Users.FirstOrDefaultAsync(c => c.Name == user.Name && c.Surname == user.Surname);
+
+            if (existingUser != null)
+            {
+                ModelState.AddModelError("Name" + "Surname", "Такий користувач вже існує");
+                return View(user);
+            }
             if (ModelState.IsValid)
             {
                 _context.Add(user);

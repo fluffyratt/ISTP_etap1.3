@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using FlightDomain.Model;
 using FlightInfrastructure;
 using NuGet.DependencyResolver;
+using System.Net.Sockets;
 
 namespace FlightInfrastructure.Controllers
 {
@@ -85,8 +86,16 @@ namespace FlightInfrastructure.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
          public async Task<IActionResult> Create ([Bind("Id,Name,Date,Description,Duration,DepartureAiroport,ArrivalAiroport")] Flight flight)
-          {
-              if (ModelState.IsValid)
+        {
+
+            var existingFlight = await _context.Flights.FirstOrDefaultAsync(c => c.Name== flight.Name);
+            if (existingFlight != null)
+            {
+                ModelState.AddModelError("Name", "Такий авіарейс вже існує");
+                return View(flight);
+            }
+
+            if (ModelState.IsValid)
               {
                   _context.Add(flight);
                   await _context.SaveChangesAsync();
